@@ -72,5 +72,5 @@ def desenha_casa(x:int , y:int , zoom: float) :
 desenha_casa(x = 50, y = 60 , zoom = 8)
 # Algumas linhas e o círculo não foram amplicados ou reduzidos com o zoom
 desenha_casa(-50, -50, 5)
-
+input("Pressione ENTER para continuar: ")
 turtle.done()
