@@ -1,3 +1,6 @@
 # Desenho
 
-Desenho de uma casa com o sol 
+Esse é um desenho de uma casa e um sol para ser publicado na semadec
+
+! [txt] (casa.gif)
+
